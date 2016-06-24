@@ -1,0 +1,11 @@
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\Subscriber.exe.config
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\Subscriber.exe
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\Subscriber.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\NServiceBus.Core.dll
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\Shared.dll
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\NServiceBus.Core.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\NServiceBus.Core.xml
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\bin\Debug\Shared.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\obj\Debug\Subscriber.csprojResolveAssemblyReference.cache
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\obj\Debug\Subscriber.exe
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Subscriber\Subscriber\obj\Debug\Subscriber.pdb
