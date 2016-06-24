@@ -1,0 +1,11 @@
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\Server.exe.config
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\Server.exe
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\Server.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\NServiceBus.Core.dll
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\Shared.dll
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\NServiceBus.Core.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\NServiceBus.Core.xml
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\bin\Debug\Shared.pdb
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\obj\Debug\Server.exe
+F:\Backup\New folder\NServiceBusDemo\NServiceBusDemo\Server\Server\obj\Debug\Server.pdb
